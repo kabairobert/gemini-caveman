@@ -1,0 +1,32 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "sequential": false,
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node ${extensionPath}/hooks/caveman-activate.js",
+            "name": "caveman_activate",
+            "timeout": 5000,
+            "description": "Activate caveman mode and inject rules into session context"
+          }
+        ]
+      }
+    ],
+    "BeforeAgent": [
+      {
+        "sequential": false,
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node ${extensionPath}/hooks/caveman-mode-tracker.js",
+            "name": "caveman_mode_tracker",
+            "timeout": 5000,
+            "description": "Track caveman mode changes from user prompts"
+          }
+        ]
+      }
+    ]
+  }
+}
