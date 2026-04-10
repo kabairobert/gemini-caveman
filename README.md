@@ -2,6 +2,10 @@
 
 Ultra-compressed communication mode for Gemini CLI. Cuts ~75% of tokens while keeping full technical accuracy by making the AI speak like a caveman.
 
+```bash
+  gemini extensions link /home/christopher/Projects/gemini-caveman
+```
+
 ## Features
 
 - **Token Efficiency:** Saves tokens and context window space by removing fluff, pleasantries, and filler words.
@@ -13,6 +17,8 @@ Ultra-compressed communication mode for Gemini CLI. Cuts ~75% of tokens while ke
 ## Installation
 
 Clone this repository and add it to your Gemini CLI workspace or global extensions directory. The CLI will automatically load the commands and hooks.
+
+
 
 ## Usage
 
