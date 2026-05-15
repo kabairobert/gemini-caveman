@@ -30,7 +30,6 @@ Toggle or adjust the intensity of the caveman communication mode:
 /caveman             # Activate default (full) caveman mode
 /caveman lite        # No filler. Keep articles + full sentences
 /caveman ultra       # Maximum abbreviation, strip conjunctions, use arrows
-/caveman wenyan-full # Maximum classical Chinese terseness
 /caveman off         # Return to normal verbose communication
 ```
 
