@@ -9,7 +9,7 @@ Ultra-compressed communication mode for Gemini CLI. Cuts ~75% of tokens while ke
 ## Features
 
 - **Token Efficiency:** Saves tokens and context window space by removing fluff, pleasantries, and filler words.
-- **Multiple Intensities:** Choose from `lite` (professional but tight) to `ultra` (maximum abbreviation) or classical Chinese (`wenyan`).
+- **Multiple Intensities:** Choose from `lite` (professional but tight) to `ultra` (maximum abbreviation)
 - **Auto-Clarity:** Automatically drops caveman mode for security warnings or complex irreversible actions to ensure safety.
 - **Custom Commands:** Built-in commands for ultra-compressed commit messages (`/caveman/commit`) and code reviews (`/caveman/review`).
 - **Smart Context:** Automatically tracks your preferred mode across sessions using hooks.
