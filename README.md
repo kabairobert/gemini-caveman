@@ -10,7 +10,7 @@ cd gemini-caveman
 ```
 2. Link once:
 ```bash
-gemini-caveman> gemini extensions link .
+gemini extensions link .
 ```
 3. Then in Gemini CLI chats you can call commands like:
 ```bash
