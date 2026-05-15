@@ -2,7 +2,7 @@
 
 Ultra-compressed communication mode for Gemini CLI. Cuts ~75% of tokens while keeping full technical accuracy by making the AI speak like a caveman.
 
-# How to actually use
+# How to use
 1. Clone repo somewhere:
 ```bash
 git clone https://github.com/kabairobert/gemini-caveman.git
