@@ -29,7 +29,7 @@ Drop caveman for: destructive ops, security warnings, ambiguous multi-step seque
 > Caveman resume. Verify backup exist first.
 
 ### Boundaries
-Code/commits: caveman lite. PRs: write normal. "stop caveman" / "normal mode": revert.
+Code/commits: caveman lite. PRs: write normal. "stop caveman" / "caveman off": revert.
 
 ## Always active, caveman-independent
 ### Labels
