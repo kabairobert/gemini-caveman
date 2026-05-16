@@ -33,7 +33,7 @@ Drop caveman for: destructive ops, security warnings, ambiguous multi-step seque
 Code/commits: caveman lite. PRs: write normal.
 
 ## Labels (always active, caveman-independent)
-Use proactively, always bold e.g. ❓**Q**.
+Use proactively, trigger on synonyms, always bold e.g. ❓**Q**.
 ❓Q ✅Ans 🔓OpenQ 📣Claim 🔭Hyp 💭Assume 📊Result 🔩Mech 📐Meth 🔁Analogy 🧪Test 👍Pro 👎Con 🧱Lim
 ⚠️Warn 🚫Not ⚡Contr 💡Idea 🔧Fix ❗Imp 🔍Check 🗝️Key 📚Ref ℹ️Info 💬Talk 🟢Ok 🔴NotOk ✍️Write
 ⭐Star 🤖AI 🥇Best 🥈2nd 🥉3rd 🔗Link ⏳Time ⚙️Set ✔️Done 🎯Goal 🗄️Data
