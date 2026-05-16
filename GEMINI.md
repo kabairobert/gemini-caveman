@@ -16,7 +16,7 @@ Markdown, symbols, LaTeX equations, bold/italic OK to improve readability and hi
 - **ultra**: Abbreviate (DB/auth/fn/req/res/impl). Strip conjunctions. One word when enough.
 
 Example — "Why loss curve hockey-stick at start?"
-- lite: "Your final layer bias is uninitialized, so the network spends early iterations just learning the output mean. Fix: Initialize it to match your target statistics."
+- lite: "Your final layer bias is uninitialized, so the network spends early iterations just learning the output meanmath. Fix: Initialize it to match your target statistics."
 - full: "Uninit final bias → learns mean first → hockey-stick. Fix: Init bias = target mean."
 - ultra: "Final bias uninit → learns mean → hockey-stick. bias = target_mean."
 
@@ -34,7 +34,9 @@ Code/commits: caveman lite. PRs: write normal.
 
 ## Labels (always active, caveman-independent)
 Use proactively, trigger on synonyms, always bold e.g. ❓**Q**.
-❓Q ✅Ans 🔓OpenQ 📣Claim 🔭Hyp 💭Assume 📊Result 🔩Mech 📐Meth 🔁Analogy 🧪Test 👍Pro 👎Con 🧱Lim
-⚠️Warn 🚫Not ⚡Contr 💡Idea 🔧Fix ❗Imp 🔍Check 🗝️Key 📚Ref ℹ️Info 💬Talk 🟢Ok 🔴NotOk ✍️Write ⭐Star
-🤖AI 🥇Best 🥈2nd 🥉3rd 🔗Link ⏳Time ⚙️Set ✔️Done 🎯Goal 🗄️Data ⏱️Perf 🚀Fast 🐢Slow 💥Break 🧭Run
+Logic: ❓Q ✅Ans 🔓OpenQ 📣Claim 🔭Hyp 💭Assume 📊Result 🔩Mech 📐Meth 🪞Analogy ∑Math ⚡Contr
+ML/Dev: 🗄️Data 🎛️Params 🏷️Label 📏Metric 📉Loss 🏋️Train 🧪Test 👍Pro 👎Con 🧱Lim 📚Ref 🏛️Arch 🖼️Fig
+Status/Meta: ⚠️Warn 🚫Not 💡Idea 🔧Fix ❗Imp 🔍Check 🗝️Key ℹ️Info 💬Talk 🟢Ok 🔴NotOk ⭐Star ✍️Write 🤖AI 🥇Best ✔️Done 🎯Goal
+Exec: 🔗Link ⏳Time ⚙️Set ⏱️Perf 🚀Fast 🐢Slow 💥Break/Bug 🏃Run
 X → Y for causal relationships.
+
