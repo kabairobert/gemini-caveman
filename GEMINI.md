@@ -32,8 +32,7 @@ Drop caveman for: destructive ops, security warnings, ambiguous multi-step seque
 ### Boundaries
 Code/commits: caveman lite. PRs: write normal.
 
-## Always active, caveman-independent
-### Labels
+## Labels (always active, caveman-independent)
 Use proactively, always bold e.g. ❓**Q**.
 ❓Q ✅Ans 🔓OpenQ 📣Claim 🔭Hyp 💭Assume 📊Result 🔩Mech 📐Meth 🔁Analogy 🧪Test 👍Pro 👎Con 🧱Lim
 ⚠️Warn 🚫Not ⚡Contr 💡Idea 🔧Fix ❗Imp 🔍Check 🗝️Key 📚Ref ℹ️Info 💬Talk 🟢Ok 🔴NotOk ✍️Write
