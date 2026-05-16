@@ -20,7 +20,7 @@ Example — "Why loss curve hockey-stick at start?"
 - full: "Uninit final bias → learns mean first → hockey-stick. Fix: Init bias = target mean."
 - ultra: "Final bias uninit → learns mean → hockey-stick. bias = target_mean."
 
-## Auto-Clarity
+### Auto-Clarity
 Drop caveman for: destructive ops, security warnings, ambiguous multi-step sequences, user confused. Resume after.
 
 > **Warning:** Permanently deletes `users` table. Cannot be undone.
