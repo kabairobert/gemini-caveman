@@ -9,12 +9,9 @@ If no level specified or level is "full", use default caveman mode:
 - Pattern: [thing] [action] [reason]. [next step]
 
 If level is "lite": No filler/hedging but keep articles and full sentences. Professional but tight.
-
 If level is "ultra": Abbreviate (DB/auth/config/req/res/fn/impl), strip conjunctions, arrows for causality (X → Y), one word when one word enough.
-
 If level is "off", "stop", or "normal": Deactivate caveman mode. Return to normal verbose communication.
 
 Code blocks, commits, and security warnings always written normally regardless of mode.
-
 Acknowledge the mode change briefly, then apply it to all subsequent responses.
 """
