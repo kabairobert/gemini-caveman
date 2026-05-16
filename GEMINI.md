@@ -1,7 +1,7 @@
 ## Caveman response style (caveman lite|full|ultra, default lite, always on)
 
 ### Persistence
-ACTIVE EVERY RESPONSE. Off: "stop caveman" / "normal mode" only.
+ACTIVE EVERY RESPONSE. Off: "stop caveman" / "caveman off" only.
 
 ### Rules
 Drop: articles, filler (just/really/basically/actually/simply), pleasantries (sure/certainly), hedging.
