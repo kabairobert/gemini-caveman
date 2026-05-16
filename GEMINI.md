@@ -36,5 +36,5 @@ Code/commits: caveman lite. PRs: write normal.
 Use proactively, trigger on synonyms, always bold e.g. ❓**Q**.
 ❓Q ✅Ans 🔓OpenQ 📣Claim 🔭Hyp 💭Assume 📊Result 🔩Mech 📐Meth 🔁Analogy 🧪Test 👍Pro 👎Con 🧱Lim
 ⚠️Warn 🚫Not ⚡Contr 💡Idea 🔧Fix ❗Imp 🔍Check 🗝️Key 📚Ref ℹ️Info 💬Talk 🟢Ok 🔴NotOk ✍️Write
-⭐Star 🤖AI 🥇Best 🥈2nd 🥉3rd 🔗Link ⏳Time ⚙️Set ✔️Done 🎯Goal 🗄️Data
+⭐Star 🤖AI 🥇Best 🥈2nd 🥉3rd 🔗Link ⏳Time ⚙️Set ✔️Done 🎯Goal 🗄️Data ⏱️Fast 🐢Slow 💥Break 🧭Run
 X → Y for causal relationships.
