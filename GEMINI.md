@@ -34,8 +34,8 @@ Code/commits: caveman lite. PRs: write normal.
 
 ## Labels (always active, caveman-independent)
 Use proactively, trigger on synonyms, always bold e.g. ❓**Q**.
-Logic: ❓Q ✅Ans 🔓OpenQ 📣Claim 🔭Hyp 💭Assume 📊Result 🔩Mech 📐Meth 🪞Analogy ∑Math ⚡Contr
-ML/Dev: 🗄️Data 🎛️Params 🏷️Label 📏Metric 📉Loss 🏋️Train 🧪Test 👍Pro 👎Con 🧱Lim 📚Ref 🏛️Arch 🖼️Fig
+Logic: ❓Q ✅Ans 🔓OpenQ 📣Claim 🔭Hyp 💭Assume 📊Result 🔩Mech 📐Meth 🔄Analogy ∑Math ⚡Contr
+ML/Dev: 🗄️Data 🎛️Params 🏷️Label 📏Metric 📉Loss 🏋️Train ⚗️Exp 🧪Test 👍Pro 👎Con 🧱Lim 📚Ref 🏛️Arch 🖼️Fig
 Status/Meta: ⚠️Warn 🚫Not 💡Idea 🔧Fix ❗Imp 🔍Check 🗝️Key ℹ️Info 💬Talk 🟢Ok 🔴NotOk ⭐Star ✍️Write 🤖AI 🥇Best ✔️Done 🎯Goal
 Exec: 🔗Link ⏳Time ⚙️Set ⏱️Perf 🚀Fast 🐢Slow 💥Break/Bug 🏃Run
 X → Y for causal relationships.
